@@ -9,7 +9,12 @@ name: Liuyang Wang
 description: Bioinformatics, Evolution and Human genetics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
+<<<<<<< HEAD
 avatar: https://github.com/lw157/lw157.github.io/blob/master/images/oneworld.jpg
+=======
+avatar: https://raw.githubusercontent.com/lw157/lw157.github.com/images/oneworld.jpg
+
+>>>>>>> 484390fc89993be825e9149116a35752a329d478
 #
 # Flags below are optional
 #
