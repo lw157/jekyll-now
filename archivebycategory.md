@@ -1,12 +1,11 @@
----
-layout: page
-title: Post by Category
-permalink: /categoryview/
-sitemap: false
----
+    ---
+    layout: page
+    title: Post by Category
+    permalink: /categoryview/
+    sitemap: false
+    ---
     
     <div>
-    
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
      <span class="site-tag">
@@ -15,10 +14,7 @@ sitemap: false
         </a>
     </span>
     {% endfor %}
-    
     </div>
-
-
 
     <div id="index">
 
