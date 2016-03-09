@@ -1,24 +1,24 @@
-    ---
-    layout: page
-    title: Post by Category
-    permalink: /categoryview/
-    sitemap: false
-    ---
+---
+layout: page
+title: Post by Category
+permalink: /archivebycategory/
+sitemap: false
+---
     
-    <div>
-    {% assign categories = site.categories | sort %}
-    {% for category in categories %}
-     <span class="site-tag">
+<div>
+  {% assign categories = site.categories | sort %}
+  {% for category in categories %}
+    <span class="site-tag">
         <a href="#{{ category | first | slugify }}">
                 {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
         </a>
     </span>
-    {% endfor %}
-    </div>
+  {% endfor %}
+ </div>
 
-    <div id="index">
+ <div id="index">
 
-    {% for category in categories %}
+  {% for category in categories %}
     <a name="{{ category[0] }}"></a><h2>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h2>
     {% assign sorted_posts = site.posts | sort: 'title' %}
     {% for post in sorted_posts %}
@@ -31,4 +31,4 @@
     {% endfor %}
 
     {% endfor %}
-    </div>
+ </div>

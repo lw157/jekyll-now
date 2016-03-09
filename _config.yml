@@ -29,6 +29,9 @@ style:
 
 # Includes page
 pages_list:
+  Home: '/home'
+  Research: '/research'
+  Publications: '/publications'
   About: '/about'
   Archive: '/archive'
   Feed: 'atom.xml'
@@ -109,3 +112,4 @@ exclude:
   - README.md
   - CNAME
   - scripts
+  - lazygit.sh
