@@ -6,7 +6,7 @@ sitemap: false
 ---
 
 
-#### # = (co)corresponding author
+##### # = (co)corresponding author
 
 *  Han X., Y. Chen, **L.Y. Wang**, W. Fang, N. Zhang, and Q. Zhu (2016) RNA: An Expanding View of Function and Evolution. *Evolutionary Bioinformatics* 11 (S1), 77-79
 
