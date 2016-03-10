@@ -5,6 +5,8 @@ layout: page
 sitemap: false 
 ---
 
+# = (co)corresponding author
+
 *  Han X., Y. Chen, **L.Y. Wang**, W. Fang, N. Zhang, and Q. Zhu (2016) RNA: An Expanding View of Function and Evolution. *Evolutionary Bioinformatics* 11 (S1), 77-79
 
 *  **Wang L.Y.**, S.H. Oehlers, S.T. Espenschied, J.F. Rawls, D.M. Tobin, and D.C. Ko (2015) CPAG: software for leveraging pleiotropy in GWAS to reveal similarity between human traits links fatty acids and intestinal inflammation. *Genome Biology*, 16:190
