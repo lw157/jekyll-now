@@ -5,9 +5,9 @@ layout: page
 sitemap: false 
 ---
 
-*  Han X., Y. Chen, L.Y. Wang, W. Fang, N. Zhang, Q. Zhu (2016) RNA: An Expanding View of Function and Evolution. Evolutionary Bioinformatics 11 (S1), 77-79
+*  Han X., Y. Chen, **L.Y. Wang**, W. Fang, N. Zhang, Q. Zhu (2016) RNA: An Expanding View of Function and Evolution. Evolutionary Bioinformatics 11 (S1), 77-79
 
-*  Wang L.Y., S.H. Oehlers, S.T. Espenschied, J.F. Rawls, D.M. Tobin, and D.C. Ko (2015) CPAG: software for leveraging pleiotropy in GWAS to reveal similarity between human traits links fatty acids and intestinal inflammation. Genome Biology, 16:190
+*  **Wang L.Y.**, S.H. Oehlers, S.T. Espenschied, J.F. Rawls, D.M. Tobin, and D.C. Ko (2015) CPAG: software for leveraging pleiotropy in GWAS to reveal similarity between human traits links fatty acids and intestinal inflammation. Genome Biology, 16:190
 
 *  Redelings B.D., S.K. Kumagai, A. Tatarenkov, L.Y. Wang, A.K. Sakai, S.G. Weller, T.M. Culley, J.C. Avise, and M.K. Uyenoyama (2015) A Bayesian approach to inferring rates of selfing and locus-specific mutation. Genetics, doi: 10.1534/genetics.115.179093
 
