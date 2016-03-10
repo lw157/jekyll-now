@@ -5,21 +5,21 @@ layout: page
 sitemap: false 
 ---
 
-*  Han X., Y. Chen, **L.Y. Wang**, W. Fang, N. Zhang, Q. Zhu (2016) RNA: An Expanding View of Function and Evolution. Evolutionary Bioinformatics 11 (S1), 77-79
+*  Han X., Y. Chen, **L.Y. Wang**, W. Fang, N. Zhang, Q. Zhu (2016) RNA: An Expanding View of Function and Evolution. *Evolutionary Bioinformatics* 11 (S1), 77-79
 
-*  **Wang L.Y.**, S.H. Oehlers, S.T. Espenschied, J.F. Rawls, D.M. Tobin, and D.C. Ko (2015) CPAG: software for leveraging pleiotropy in GWAS to reveal similarity between human traits links fatty acids and intestinal inflammation. Genome Biology, 16:190
+*  **Wang L.Y.**, S.H. Oehlers, S.T. Espenschied, J.F. Rawls, D.M. Tobin, and D.C. Ko (2015) CPAG: software for leveraging pleiotropy in GWAS to reveal similarity between human traits links fatty acids and intestinal inflammation. *Genome Biology*, 16:190
 
-*  Redelings B.D., S.K. Kumagai, A. Tatarenkov, L.Y. Wang, A.K. Sakai, S.G. Weller, T.M. Culley, J.C. Avise, and M.K. Uyenoyama (2015) A Bayesian approach to inferring rates of selfing and locus-specific mutation. Genetics, doi: 10.1534/genetics.115.179093
+*  Redelings B.D., S.K. Kumagai, A. Tatarenkov, **L.Y. Wang**, A.K. Sakai, S.G. Weller, T.M. Culley, J.C. Avise, and M.K. Uyenoyama (2015) A Bayesian approach to inferring rates of selfing and locus-specific mutation. *Genetics*, doi: 10.1534/genetics.115.179093
 
-*  Chen Y., A.P. Litvintseva, A. E. Frazzitta, M. R. Haverkamp, L.Y. Wang, C. Fang, C. Muthoga, T.G. Mitchell, J.R. Perfect (2015) Comparative Analyses of Clinical and Environmental Populations of Cryptococcus neoformans in Botswana. Molecular Ecology, 24: 3559-3571.
+*  Chen Y., A.P. Litvintseva, A. E. Frazzitta, M. R. Haverkamp, **L.Y. Wang**, C. Fang, C. Muthoga, T.G. Mitchell, and J.R. Perfect (2015) Comparative Analyses of Clinical and Environmental Populations of Cryptococcus neoformans in Botswana. *Molecular Ecology*, 24: 3559-3571.
 
-*  Gao D.H., D.C. Ko, X.M. Tian, G. Yang and L.Y. Wang# (2015) Expression divergence of duplicate genes in the protein kinase superfamily in Pacific oyster. Evolutionary Bioinformatics, 11 (S1): 57-65
+*  Gao D.H., D.C. Ko, X.M. Tian, G. Yang and **L.Y. Wang#** (2015) Expression divergence of duplicate genes in the protein kinase superfamily in Pacific oyster. *Evolutionary Bioinformatics*, 11 (S1): 57-65
 
-*  Zhou Z.L., H.C. Ma, K.H. Lin, Y.J. Zhao, Y. Chen, Z. Xiong, L.Y. Wang#, and B. Tian# (2015) RNA-seq reveals complicated transcriptomic responses to drought stress in a non-model tropic plant, Bombax ceiba L.  Evolutionary Bioinformatics, 11 (S1): 27-37
+*  Zhou Z.L., H.C. Ma, K.H. Lin, Y.J. Zhao, Y. Chen, Z. Xiong, **L.Y. Wang#**, and B. Tian# (2015) RNA-seq reveals complicated transcriptomic responses to drought stress in a non-model tropic plant, Bombax ceiba L.  *Evolutionary Bioinformatics*, 11 (S1): 27-37
 
-*  Wang L., Z.K. Wang, J.B. Chen, C.Y. Liu, W.L. Zhu, L.Y. Wang#, and L.H. Meng# (2015) De novo transcriptome assembly and microsatellite markers development for the traditional Tibetan medicinal herb Veratrilla baillonii Franch (Gentianaceae). Evolutionary Bioinformatics, 11 (S1) 39-45
+*  Wang L., Z.K. Wang, J.B. Chen, C.Y. Liu, W.L. Zhu, **L.Y. Wang#**, and L.H. Meng# (2015) De novo transcriptome assembly and microsatellite markers development for the traditional Tibetan medicinal herb Veratrilla baillonii Franch (Gentianaceae). *Evolutionary Bioinformatics*, 11 (S1) 39-45
 
-*  Meng L.H. #, G. Chen, Z.H. Li, Y.P. Yang, Z.K. Wang, and L.Y. Wang# (2015) Refugial isolation and range expansions drive the genetic structure of Oxyria sinensis (Polygonaceae) in the Himalaya-Hengduan Mountains. Scientific Reports, 5 (10396)
+*  Meng L.H. #, G. Chen, Z.H. Li, Y.P. Yang, Z.K. Wang, and **L.Y. Wang#** (2015) Refugial isolation and range expansions drive the genetic structure of Oxyria sinensis (Polygonaceae) in the Himalaya-Hengduan Mountains. *Scientific Reports*, 5 (10396)
 
 *  Janoušek V., P. Munclinger, L.Y. Wang, K.C. Teeter, and P.K. Tucker (2015) Functional organization of the genome may shape the species boundary in house mouse. Molecular Biology and Evolution, 32 (5): 1208-1220.
 
