@@ -82,14 +82,11 @@ gems:
 
 # Defaults
 defaults:
-  -
    scope:	
     path: ""            # empty string means all files
     type: "posts"       # limit to files in `_posts`
    values:
     comments: "true"    # set `comments` to `true` by default for all posts
-			    
-
 
 # Exclude these files from your production _site
 exclude:
