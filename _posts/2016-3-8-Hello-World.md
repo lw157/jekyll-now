@@ -9,6 +9,7 @@ excerpt: |
 
 ---
 
-This site is forked from Jekyll Now repository (https://github.com/barryclark/jekyll-now). Thanks for Barry Clarks.
+This site is forked from Jekyll Now repository (https://github.com/barryclark/jekyll-now). Thanks for Barry Clarks' excellent work.
+
 
 {% include series.html %}
