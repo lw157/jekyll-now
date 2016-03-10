@@ -1,9 +1,8 @@
-{% if page.comments %}
  <div id="disqus_thread"></div>
   <script type="text/javascript">
     
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url = '{{ page.url | prepend: site.url }}'; // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = "{{ site.disqusid }}{{ page.url | replace:'index.html','' }}";
 
     /* dont edit */
@@ -18,5 +17,3 @@
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
   <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-  
-{% endif %}
