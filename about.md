@@ -11,5 +11,5 @@ I am a Senior Research Associate in the Department of Molecular Genetics and Mic
 
 ### Contact me
 
-
-Email: wallacewly@gmail.com(mailto:wallacewly@gmail.com)
+My google scholar: [here](https://scholar.google.com/citations?user=_G7NoOIAAAAJ&hl=en)
+My email: [click me](mailto:wallacewly@gmail.com)
