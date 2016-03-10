@@ -13,4 +13,6 @@ I am Liuyang Wang, a Senior Research Associate in the Department of Molecular Ge
 
 My google scholar: [here](https://scholar.google.com/citations?user=_G7NoOIAAAAJ&hl=en)
 
+My researchgate: [here](https://www.researchgate.net/profile/Liuyang_Wang2)
+
 My email: [email me](mailto:wallacewly@gmail.com)
