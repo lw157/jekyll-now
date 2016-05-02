@@ -5,7 +5,6 @@ series: test
 date: 2016-05-02 10:42
 categories: ['blogging', 'jekyll']
 published: true 
-excerpt: |
 
 ---
 
