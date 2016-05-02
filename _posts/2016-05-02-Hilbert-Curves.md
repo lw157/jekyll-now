@@ -8,10 +8,8 @@ published: true
 excerpt: |
 
 ---
-
 
-Overview
-========
+Introduction
 
 The Hilbert cuves was an approach of filling space curves with simple lines. It was discovered by German mathematician *David Hilbert* in 1891 to fill entire plain with a curve, and it is a variant of Peano curves named after Giuseppe Peano in 1890. The Hausdorff dimension is 2. The Euclidean length of \(\H_n\) is \(2^n - 1/(2^n)\), i.e., it grows exponentially with \(n\).
 
